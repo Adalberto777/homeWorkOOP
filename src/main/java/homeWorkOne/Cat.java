@@ -1,4 +1,4 @@
-package seminarOne;
+package homeWorkOne;
 
 public class Cat {
     private String name;

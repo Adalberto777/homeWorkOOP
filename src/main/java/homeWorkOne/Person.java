@@ -1,4 +1,4 @@
-package seminarOne;
+package homeWorkOne;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
