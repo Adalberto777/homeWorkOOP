@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7356b49a-9b5e-4203-a4e8-3a5f4fd76083" name="Changes" comment="26/01/23">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkOneR/ColdDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkOneR/HotDrinc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkOneR/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkOneR/Product.java" afterDir="false" />
+    <list default="true" id="7356b49a-9b5e-4203-a4e8-3a5f4fd76083" name="Changes" comment="14/02/23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +45,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/NewGeekBrains/Java/homeWorkOOP"
   }
 }]]></component>
   <component name="RunManager">
@@ -96,12 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1674759040724</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="14/02/23">
+      <created>1676389993168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676389993168</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="26/01/23" />
-    <option name="LAST_COMMIT_MESSAGE" value="26/01/23" />
+    <MESSAGE value="14/02/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="14/02/23" />
   </component>
 </project>
